@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=ua_parser -DartifactId=ua-parser -Dversion=1.3.1-SNAPSHOT -Dfile=/Users/admin/Downloads/ua-parser-master/java/target/ua-parser-1.3.1-SNAPSHOT.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=./repository  -DcreateChecksum=true
